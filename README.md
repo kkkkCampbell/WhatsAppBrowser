@@ -1,5 +1,3 @@
-whatsappbrowser.zip
-
 Имитатор приложения WhatsApp для Windows. По сути оболочка над WebView2 с загруженным в него https://web.whatsapp.com
 
 !!!_Звонить не умеет_!!!
@@ -28,3 +26,5 @@ whatsappbrowser.zip
 - пользоваться
 
 В менюшке (три полоски слева) всё и так очевидно.
+
+whatsappbrowser.zip - https://github.com/kkkkCampbell/WhatsAppBrowser/raw/refs/heads/main/whatsappbrowser.zip
